@@ -1,7 +1,7 @@
 # 📊 Business Intelligence Dashboard
 
 **Business Intelligence Dashboard Interaktif** untuk analisis data penjualan berdasarkan lokasi toko, kategori produk, metode pembayaran, dan tren bulanan.  
-Dibuat menggunakan **Streamlit**, **Pandas**, dan **Plotly** oleh **Dwi Haryani**.
+Dibuat menggunakan **Streamlit**, **Pandas**, dan **Plotly** by **Dwi Haryani**.
 
 ---
 
@@ -12,7 +12,7 @@ Dibuat menggunakan **Streamlit**, **Pandas**, dan **Plotly** oleh **Dwi Haryani*
 
 ![Dashboard Preview](Screenshot%202025-07-06%20at%2014.18.16.png)
 
-
+Live Demo Video here : https://drive.google.com/file/d/116uLvQDGR186UuOlVLKE3bls8PLbBuF6/view?usp=share_link
 ---
 
 ## 📂 Dataset
