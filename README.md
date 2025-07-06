@@ -10,7 +10,7 @@ Dibuat menggunakan **Streamlit**, **Pandas**, dan **Plotly** oleh **Dwi Haryani*
 
 ## 🖼️ Cuplikan Dashboard
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview]([images/dashboard_preview.png](https://drive.google.com/file/d/1ImDuZnByYf7ZX8KRybo0pGmyWdJjErtN/view?usp=share_link))
 
 ---
 
